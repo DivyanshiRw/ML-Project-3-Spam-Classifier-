@@ -1,0 +1,60 @@
+
+For  SVC 
+Accuracy -  0.9757751937984496
+Precision -  0.9722222222222222
+
+For  KN
+Accuracy -  0.9108527131782945
+Precision -  1.0
+
+For  NB
+Accuracy -  0.9757751937984496
+Precision -  1.0
+
+For  BNB
+Accuracy -  0.9854651162790697
+Precision -  1.0
+
+For  DT
+Accuracy -  0.938953488372093
+Precision -  0.8478260869565217
+
+For  LR
+Accuracy -  0.9612403100775194
+Precision -  0.9484536082474226
+
+For  RF
+Accuracy -  0.9757751937984496
+Precision -  1.0
+
+For  AdaBoost
+Accuracy -  0.9660852713178295
+Precision -  0.9107142857142857
+
+For  BgC
+Accuracy -  0.9602713178294574
+Precision -  0.8909090909090909
+
+For  ETC
+Accuracy -  0.9796511627906976
+Precision -  0.9818181818181818
+
+For  GBDT
+Accuracy -  0.9554263565891473
+Precision -  0.9764705882352941
+
+
+
+Algorithm	        Accuracy	Precision
+1	KN	            0.910853	1.000000
+2	NB	            0.975775	1.000000
+3	BNB	            0.985465	1.000000
+6	RF	            0.975775	1.000000
+9	ETC	            0.979651	0.981818
+10	GBDT	        0.955426	0.976471
+0	SVC	            0.975775	0.972222
+5	LR	            0.961240	0.948454
+7	AdaBoost	    0.966085	0.910714
+8	BgC	            0.960271	0.890909
+4	DT	            0.938953	0.847826
+​
